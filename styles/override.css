@@ -20,3 +20,23 @@ video {
     align-self: center;
     text-align: center;
 }
+
+ul {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 0 auto;
+    max-width: 280px;
+    overflow: hidden;
+}
+
+ul a {
+    font-family: "Inter", system-ui;
+    font-weight: 450;
+    font-size: 15px;
+    letter-spacing: -0.25px;
+    line-height: 150%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

@@ -3,10 +3,15 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="../styles/override.css"/>
         <link rel="stylesheet" href="../styles/global.css"/>
         <title>{{ title }}</title>
     </head>
     <body class="main">
-        {{ content | safe }}
+        <ul>
+            {%- for post in collections.post -%}
+                <a href="{{ post.url }}">{{ post.data.title }}</a>
+            {%- endfor -%}
+        </ul>
     </body>
 </html>
