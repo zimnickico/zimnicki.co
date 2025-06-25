@@ -3,11 +3,13 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="stylesheet" href="../styles/global.css"/>
+        <link rel="stylesheet" href="../../styles/global.css"/>
         <title>{{ title }}</title>
-        {% favicon 'public/icons/icon.png' %}
     </head>
     <body>
-        {{ content | safe }}
+        <h1>{{ title }}</h1>
+        <main>
+            {{ content | safe }}
+        </main>
     </body>
 </html>

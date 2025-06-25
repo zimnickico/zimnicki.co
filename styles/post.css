@@ -1,0 +1,13 @@
+body {
+    font-family: system-ui;
+    font-weight: 450;
+    font-size: 15px;
+
+    padding: 10px 20px;
+
+    max-width: 40%;
+
+    overflow: hidden;
+
+    -webkit-font-smoothing: subpixel-antialiased;
+}

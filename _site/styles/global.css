@@ -2,35 +2,12 @@
 
 body {
     font-family: "Inter", system-ui;
+    font-size: 13px;
     font-weight: 450;
-    font-size: 12.5px;
-    letter-spacing: -0.2px;
-    line-height: 150%;
-    text-align: center;
+
+    letter-spacing: -0.1px;
+
+    margin: 12px 16px;
+
     -webkit-font-smoothing: subpixel-antialiased;
-    margin-top: 20%;
-}
-
-h2 {
-    font-family: "Inter", system-ui;
-    font-weight: 450;
-    font-size: 15px;
-    letter-spacing: -0.25px;
-    line-height: 50%;
-}
-
-a {
-    color: #b8b8b8;
-    text-decoration: none;
-    padding: 0 10px;
-}
-
-a:hover {
-    color: #171717;
-}
-
-.navigation {
-    position: absolute;
-    width: 99vw;
-    bottom: 20px;
 }

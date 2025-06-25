@@ -1,7 +1,8 @@
 ---
-layout: default.njk
+layout: post.njk
 tags: post
 title: Growing away from business software and calling your shot.
+date: 2025-06-25
 ---
 
 I could create another business-to-business, software-as-a-service company, but is that what I want? Selling my previous company gave me a lot of time to reflect on what matters to me, and I realized making a meaningful impact is pretty high on that list.
@@ -14,8 +15,10 @@ Such a venture might, by its own nature, eventually render itself obsolete. Cons
 
 It’s easy to compare this model to deep tech companies, but unlike deep tech startups that typically focus on solving scientific or technological problems within narrow domains, an open breakout company has a broader focus. It deliberately integrates multiple disciplines and perspectives from the start and is heavily intentional, rather than letting broader impact emerge as a byproduct of technical innovation.
 
-I’m not hating on startups or profit motives. I’m hating on broad, vaguely defined, falsely ambitious sounding goals, and instead believe in setting clear, ambitious ones that lead to meaningful progress from the very start.1
+I’m not hating on startups or profit motives. I’m hating on broad, vaguely defined, falsely ambitious sounding goals, and instead believe in setting clear, ambitious ones that lead to meaningful progress from the very start.[^1]
 
 Take SpaceX, with its explicit goal of reaching Mars. It’s ambitious, clear, and, if successful, transformative. It’s also easy to measure with unlimited upside.
 
 While my strengths lie primarily in product design, software engineering, and entrepreneurship rather than science, I’m excited to explore ideas that have genuine potential for universal benefit. I already have something that fits this vision in mind, but it needs some more time in the oven, stay tuned.
+
+[^1]: Terrain Capital Management has a great letter titled “Call Your Shot” which inspired a lot of the writing behind this.
