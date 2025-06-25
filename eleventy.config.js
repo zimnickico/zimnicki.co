@@ -2,7 +2,6 @@ import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import markdownItAttrs from "markdown-it-attrs";
 import markdownIt from "markdown-it";
 import markdownItFootnote from "markdown-it-footnote";
-import eleventyFaviconPlugin from "eleventy-favicon";
 
 export default function (eleventyConfig) {
   const markdown = markdownIt({ html: true })
@@ -15,7 +14,6 @@ export default function (eleventyConfig) {
   eleventyConfig.setLibrary("md", markdown);
 
   eleventyConfig.addPlugin(eleventyImageTransformPlugin);
-  eleventyConfig.addPlugin(eleventyFaviconPlugin);
 
   eleventyConfig.addPassthroughCopy("styles/global.css");
   eleventyConfig.addPassthroughCopy("styles/post.css");
