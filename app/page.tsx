@@ -1,10 +1,12 @@
 import { Header } from "@/ui/header";
+import { Microformats } from "@/ui/microformats";
 import { Navigation } from "@/ui/navigation";
 import { WorkContainer, WorkSample, WorkSampleImage } from "@/ui/work";
 
 export default function Page() {
   return (
     <main className="px-6 md:px-0">
+      <Microformats />
       <section className="mx-auto max-w-[42em]" id="intro">
         <Header />
       </section>
