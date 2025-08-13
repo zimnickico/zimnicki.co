@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { PostHogProvider } from "@/lib/providers/posthog";
 
 export const metadata: Metadata = {
   title: "Christoph Zimnicki",
@@ -15,7 +16,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="subpixel-antialiased">{children}</body>
+      <PostHogProvider>
+        <body className="subpixel-antialiased">{children}</body>
+      </PostHogProvider>
     </html>
   );
 }
