@@ -1,0 +1,25 @@
+body {
+  /* font-family: monospace; */
+  /* font-size: 14px; */
+}
+
+h2 {
+  font-size: 18px
+}
+
+section {
+  max-width: 36em;
+  margin: 12em auto;
+}
+
+.post {
+  max-width: 36em;
+  margin: 12em auto;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+summary::marker {
+  color: oklch(70.9% 0.01 56.259);
+  /* font-size: 13px; */
+}
