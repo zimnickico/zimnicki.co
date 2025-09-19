@@ -7,9 +7,12 @@
     "@types/bun": "latest"
   },
   "peerDependencies": {
-    "typescript": "^5"
+    "typescript": "^5.9.2"
   },
   "dependencies": {
-    "@11ty/eleventy": "^3.1.2"
+    "@11ty/eleventy": "^3.1.2",
+    "@markdown-mailer/cli": "^0.0.3",
+    "@shopify/prettier-plugin-liquid": "^1.10.0",
+    "chokidar": "^4.0.3"
   }
 }

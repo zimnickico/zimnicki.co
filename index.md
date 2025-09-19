@@ -5,15 +5,5 @@ title: Christoph Zimnicki
 
 ---
 
-Christoph Zimnicki is currently working on a better way to manage fleets of vehicles from the very first car and creating new human-machine interfacing paradigms.  
-
-[Updates](/updates/09-2025)
-[Contact](mailto:christoph@zimnicki.co)
-
-
-<!-- <details> -->
-<!-- <summary>Posts</summary> -->
-<!--   <a href="#">New Design</a> -->
-<!-- </details> -->
-<!---->
-<!-- [contact](#) [updates](#) -->
+I'm an entrepreneur, designer and engineer that enjoys helping humans understand machines and vice-versa.
+I recommend you get started by [reading my latest update](/updates/09-2025).

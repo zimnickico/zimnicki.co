@@ -1,20 +1,28 @@
-body {
-  /* font-family: monospace; */
-  /* font-size: 14px; */
+:root {
+  --color-background: oklch(0.998 0.002 67.902);
+  --color-surface-1: oklch(0.722 0.008 61.438);
+  --color-surface-2: oklch(0.434 0.008 67.609);
+  --color-foreground: oklch(0.106 0.023 70.533);
 }
 
-h2 {
-  font-size: 18px
+html {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+}
+
+body {
+  line-height: 1.4;
 }
 
 section {
   max-width: 36em;
-  margin: 12em auto;
+  margin: 6em auto;
+  text-align: unset;
 }
 
 .post {
   max-width: 36em;
-  margin: 12em auto;
+  margin: 6em auto;
   line-height: 1.5;
   text-align: justify;
 }
@@ -23,3 +31,36 @@ summary::marker {
   color: oklch(70.9% 0.01 56.259);
   /* font-size: 13px; */
 }
+
+.mm-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.mm-header h2 {
+  font-size: 1.75em;
+  font-weight: 500;
+}
+
+.mm-img {
+  width: 48px;
+}
+
+.h-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.u-photo {
+  width: 24px;
+  padding-left: 2px;
+}
+
+.p-name {
+  text-decoration: none;
+  color: var(--color-foreground);
+  padding-top: 2px;
+}
+
