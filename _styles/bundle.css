@@ -27,10 +27,16 @@ section {
   text-align: justify;
 }
 
+.date {
+  color: var(--color-surface-1)
+}
+
 summary::marker {
   color: oklch(70.9% 0.01 56.259);
   /* font-size: 13px; */
 }
+
+
 
 .mm-header {
   display: flex;

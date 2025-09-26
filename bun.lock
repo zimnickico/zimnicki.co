@@ -8,6 +8,7 @@
         "@markdown-mailer/cli": "^0.0.3",
         "@shopify/prettier-plugin-liquid": "^1.10.0",
         "chokidar": "^4.0.3",
+        "luxon": "^3.7.2",
       },
       "devDependencies": {
         "@types/bun": "latest",

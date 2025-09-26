@@ -3,12 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="_styles/bundle.css">
     <link type="text/css" rel="stylesheet" href="../../_styles/bundle.css">
     <title>{{ title }}</title>
   </head>
   <body>
-    <section class="post">
-      <p class="date">{{ page.date | date: '%B %d, %Y' }}</p>
+    <section>
+    <div class="mm-header">
+    <h2>Markdown Mailer</h2>
+    <!--<img class="mm-img" src="/public/mm-logo-black.svg"/>-->
+    </div>
     {{ content }}
     </section>
   </body>
