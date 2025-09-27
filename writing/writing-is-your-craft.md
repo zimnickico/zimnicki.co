@@ -1,0 +1,24 @@
+---
+
+layout: post.liquid
+title: Your writing is your craft.
+date: 2025-09-27
+
+---
+
+<span style="color: var(--color-surface-1)">Mirrors: [Substack](https://zimnickico.substack.com/p/your-writing-is-your-craft), [Google Docs](https://docs.google.com/document/d/1M68zo6vokxgUkx_RpC5VbtYMJWpFH8zpx2C3SZ6GxqU/edit?usp=sharing)</span>
+
+## Your writing is your craft.
+
+It’s the year 2035, your son just started elementary school and is crafting their first essay about the advancements of artificial intelligence of the past decade. He doesn’t need to write it though, he merely speaks his word into an interface which converts his words into eloquent text displayed on a screen. The essay is created from his thoughts, his speech, his research, but somehow sounds like every other of his classmates when read.
+
+Does that sound similar? It’s exactly what happens when you paste your unfinished draft into your favorite large language model interface and tell it to “just finish it, so it’s publishable to my social media page, make it sound like me.” You’re taking an original idea… and making it unoriginal.
+
+Over time, you started to recognize when someone's idea was “finished up” this way, thanks to its stylistic differences from natural human writing. Once that has happened, you realized that you don’t want people mistaking your original thoughts for this so-called “slop,” so you applied quirks to your writing; which I applaud. I, for one, started boycotting the use of proper capitalization for a long time. Just look at my Twitter feed and it will be pretty obvious. 
+
+But is that really the answer? To change your style so much it becomes unrecognizable? I don’t think so. I think that the real change we can see here is the craft we talk so much about recently. It’s making your thoughts, your real style, and your approach to writing so original it’s impossible to replicate without your direct input. 
+
+*Inspired by [Craft Is the Antidote to Slop](https://minutes.substack.com/p/craft-is-the-antidote-to-slop?r=d9y63) (Will Manidis.)*
+
+
+

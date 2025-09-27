@@ -11,6 +11,7 @@ I recommend you get started by [reading my latest update](/updates/09-2025).
 
 Occasionally write about humanism, philosphy:
 
+- [Your writing is your craft.](/writing/writing-is-your-craft)
 - [You should rarely be the loudest person in the room.](/writing/loudest-in-the-room)
 
 and technology, design: 
