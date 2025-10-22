@@ -1,4 +1,3 @@
-
 Your writing is your craft.
 ---------------------------
 
