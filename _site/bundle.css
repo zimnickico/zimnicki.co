@@ -1,0 +1,19 @@
+@import url('https://rsms.me/inter/inter.css');
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: InterVariable;
+    font-variation-settings: 'opsz' 32;
+    font-feature-settings: "liga" on, "calt" on, "tnum" on, "cv01" on, "cv03" on;
+    font-weight: 450;
+    
+    letter-spacing: -0.2px;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+}
+
